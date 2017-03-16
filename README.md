@@ -13,7 +13,7 @@ DroneFace contains following contents:
 images, and 73 portrait images
 
 * The raw images are taken in 3,680x2,760 resolution with
-ultra-wide eld of view (170◦) under daylights.
+ultra-wide field of view (170◦) under daylights.
 
 * The resolutions of the facial images are between 23x31 and
 384x384.
@@ -48,6 +48,6 @@ means that the picture is the portrait handed by the subject, and
 of the subjects’ front, left, or right faces. The distance ID is a two
 digit number, and the actual distance from the subject to the camera
 equals to 17-(distanceID/2) meters. For any of the components in
-the lename, "na" represents that the corresponding information is
+the filename, "na" represents that the corresponding information is
 not available.
 
