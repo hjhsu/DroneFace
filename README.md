@@ -4,7 +4,7 @@ An Open Dataset for Testing Face Recognition on Drones
 # Download Link
 [Download DroneFace](http://deal1.iecs.fcu.edu.tw/DroneFace.zip)
 
-# Description
+# Contents
 DroneFace contains following contents:
 
 * 11 subjects including 7 males and 4 females.
@@ -26,14 +26,22 @@ subjects with 0.5 meters interval.
 phone camera for comparison.
 
 
-
+# Description
 All the images in DroneFace are named in the following manner:
-subjectID_cameraType_heightID_imageType_distanceID.jpg
-subjectID [[a-k]|ab|cd|ef|gh|ijk]
-cameraType [gp|cam|na]
-heightID [0|3|4|5|na]
-imageType [eo|ef|por|por[F|L|R]
-distanceID [00-30|na]
+
+**subjectID_cameraType_heightID_imageType_distanceID.jpg**
+
+*subjectID [[a-k]|ab|cd|ef|gh|ijk]*
+
+*cameraType [gp|cam|na]*
+
+*heightID [0|3|4|5|na]*
+
+*imageType [eo|ef|por|por[F|L|R]*
+
+*distanceID [00-30|na]*
+
+
 11 subjects are named with English letters, a to k. The subject a,
 b, c, e, g, j, and k are males, and the remainders are females. If the
 subjectID part contains merely one letter means only one subject
