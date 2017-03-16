@@ -6,17 +6,23 @@ An Open Dataset for Testing Face Recognition on Drones
 
 # Description
 DroneFace contains following contents:
-• 11 subjects including 7 males and 4 females.
-• 2,057 pictures including 620 raw images, 1,364 frontal face
+
+* 11 subjects including 7 males and 4 females.
+
+* 2,057 pictures including 620 raw images, 1,364 frontal face
 images, and 73 portrait images
-• The raw images are taken in 3,680x2,760 resolution with
+
+* The raw images are taken in 3,680x2,760 resolution with
 ultra-wide eld of view (170◦) under daylights.
-• The resolutions of the facial images are between 23x31 and
+
+* The resolutions of the facial images are between 23x31 and
 384x384.
-• The raw images are taken from 1.5, 3, 4, and 5 meters high.
-• The raw images are taken 2 to 17 meters away from the
+
+* The raw images are taken from 1.5, 3, 4, and 5 meters high.
+
+* The raw images are taken 2 to 17 meters away from the
 subjects with 0.5 meters interval.
-• The 3-direction portrait images are taken by sport and
+* The 3-direction portrait images are taken by sport and
 phone camera for comparison.
 
 All the images in DroneFace are named in the following manner:
