@@ -63,4 +63,5 @@ not available.
 
 # Reference
 [1] Hwai-Jung Hsu and Kuan-Ta Chen. 2015. Face Recognition on Drones: Issues and Limitations. In Proceedings of the First Workshop on Micro Aerial Vehicle Networks, Systems, and Applications for Civilian Use (DroNet '15). ACM, New York, NY, USA, 39-44. DOI=http://dx.doi.org/10.1145/2750675.2750679
+
 [2] Hwai-Jung Hsu and Kuan-Ta Chen. 2017. DroneFace: An Open Dataset for Drone Research. In Proceedings of the 8th ACM on Multimedia Systems Conference (MMSys'17). ACM, New York, NY, USA, 187-192. DOI: https://doi.org/10.1145/3083187.3083214
