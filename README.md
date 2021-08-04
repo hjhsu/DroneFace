@@ -2,7 +2,7 @@
 An Open Dataset for Testing Face Recognition on Drones
 
 # Download Link
-[Download DroneFace](http://deal1.iecs.fcu.edu.tw/DroneFace.zip)
+[Download DroneFace](https://www.dropbox.com/s/c9odbl7eckavten/DnHFaces.zip?dl=1)
 
 # Contents
 DroneFace contains following contents:
